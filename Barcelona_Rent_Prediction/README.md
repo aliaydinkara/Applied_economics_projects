@@ -1,0 +1,1 @@
+This project predicts neighbourhood-level rental prices in Barcelona using socioeconomic and demographic data. Several machine learning models are compared, including Random Forests and LASSO regression, to evaluate predictive performance.
