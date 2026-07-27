@@ -1,0 +1,1 @@
+This project applies supervised machine learning techniques to option pricing. Different algorithms are evaluated for their ability to approximate option values and compared using standard prediction accuracy metrics.
