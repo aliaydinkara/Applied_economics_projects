@@ -1,0 +1,1 @@
+This project develops a dynamic factor model to nowcast Saudi Arabian GDP using monthly macroeconomic indicators. The model is estimated with a Kalman filter and evaluates the contribution of financial and sentiment variables to forecasting performance.
